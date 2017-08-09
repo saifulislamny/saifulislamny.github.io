@@ -1,0 +1,73 @@
+body {
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: 1491px 840px;
+}
+
+body h1 {
+    margin-left: 375px;
+    margin-top: 225px;
+    margin-bottom: 5px;
+    font-family: 'Roboto';
+    font-weight: lighter;
+    font-size: 90px;
+    color: whitesmoke;
+}
+
+body .icons .fb {
+    display: inline-block;
+    padding:0px;
+    margin-left: 580px;
+}
+
+body .icons .ig {
+    display: inline-block;
+    padding:0px;
+    margin-left: 10px;
+}
+
+body .icons .linkedin {
+    display: inline-block;
+    padding:0px;
+    margin-left: 10px;
+}
+
+body .icons .github {
+    display: inline-block;
+    padding:0px;
+    margin-left: 10px;
+}
+
+body .portfolio .button{
+    background:black;
+    color:whitesmoke;
+    border: 0px; 
+    height:35px; 
+    width:125px; 
+    margin-top: 40px;
+    margin-left: -70px;
+    position:relative;
+    left:50%;
+}
+
+body .portfolio .button .folder{
+    height:12px; 
+    width:14px; 
+}
+
+body .resume .button .doc{
+    height:12px; 
+    width:14x; 
+}
+
+body .resume .button{
+    background:black;
+    color: whitesmoke;
+    border: 0px; 
+    height:35px; 
+    width:125px; 
+    margin-top: 10px;
+    margin-left: -70px;
+    position:relative;
+    left:50%;
+}
