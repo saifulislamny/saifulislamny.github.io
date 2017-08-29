@@ -1,23 +1,23 @@
 body {
     background-repeat: no-repeat;
-    background-attachment: scroll;
-    background-size: 1491px 840px;
+    background-position: center;
+    background-size: 1580px 1080px;
 }
 
 body h1 {
-    margin-left: 375px;
+    margin-left: 400px;
     margin-top: 225px;
     margin-bottom: 5px;
-    font-family: 'Roboto';
+    font-family: 'Advent Pro';
     font-weight: lighter;
-    font-size: 90px;
+    font-size: 100px;
     color: whitesmoke;
 }
 
 body .icons .fb {
     display: inline-block;
     padding:0px;
-    margin-left: 580px;
+    margin-left: 600px;
 }
 
 body .icons .ig {

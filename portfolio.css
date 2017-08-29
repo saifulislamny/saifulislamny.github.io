@@ -1,0 +1,67 @@
+body .heading {
+    margin-top: 200px;
+    text-align: center;
+    font-size: 30px;
+}
+
+body .apps {
+    background:black;
+    color: whitesmoke;
+    border: 0px; 
+    height:35px; 
+    width:125px; 
+    margin-top: 10px;
+    margin-left: -70px;
+    position:relative;
+    left:50%;
+}
+
+body .games {
+    margin-top: 10px;
+    background:black;
+    color: whitesmoke;
+    border: 0px; 
+    height:35px; 
+    width:125px; 
+    margin-left: -70px;
+    position:relative;
+    left:50%;
+}
+
+body .photography {
+    margin-top: 10px;
+    background:black;
+    color: whitesmoke;
+    border: 0px; 
+    height:35px; 
+    width:125px; 
+    margin-left: -70px;
+    position:relative;
+    left:50%;
+}
+
+body .websites {
+    margin-top: 10px;
+    background:black;
+    color: whitesmoke;
+    border: 0px; 
+    height:35px; 
+    width:125px; 
+    margin-left: -70px;
+    position:relative;
+    left:50%;
+}
+
+body .asc {
+    margin-top: 10px;
+    background:black;
+    color: whitesmoke;
+    border: 0px; 
+    height:35px; 
+    width:125px; 
+    margin-left: -70px;
+    position:relative;
+    left:50%;
+}
+
+
