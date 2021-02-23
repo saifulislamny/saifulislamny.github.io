@@ -1,0 +1,139 @@
+/* Organization: 
+ * Outside of brace: in order of what is seen on the page from top to bottom
+ * Inside of brace: alphabetical order */
+
+.button { /* first thing seen on page*/
+    transition-duration: 0.4s;
+    -webkit-transition-duration: 0.4s; 
+}
+
+.githubInfo {
+    position: absolute;
+    right: 15.75%;
+    text-align: right;
+    top: 1.5%;
+}
+
+.linkedinInfo {
+    position: absolute;    
+    right: 8.25%;
+    text-align: right;
+    top: 1.5%;
+}
+
+.contactInfo {
+    position: absolute;
+    right: 0.5%;
+    text-align: right;
+    top: 1.5%;
+}
+
+.github {
+    border: 0px;
+    font-size: 20px;
+    font-weight: lighter;
+    padding: 5px 10px;
+}
+
+.github:hover {
+    background-color: #F8F8FF;
+    color: black;
+    cursor: pointer;
+}
+
+.linkedin {
+    border: 0px;
+    font-size: 20px;
+    font-weight: lighter;
+    padding: 5px 10px;
+}
+
+.linkedin:hover {
+    background-color: #F8F8FF;
+    color: black;
+    cursor: pointer;
+}
+
+.contact {
+    border: 0px;
+    font-size: 20px;
+    font-weight: lighter;
+    padding: 5px 10px;
+}
+
+.contact:hover {
+    background-color: #F8F8FF;
+    color: black;
+    cursor: pointer;
+}
+
+.dropdown {
+    display: none;
+}
+
+.contactInfo:hover .dropdown {
+    display: block;
+}
+
+.dropdown a {
+    display: block;
+    font-family: sans-serif;
+    font-weight: lighter;
+    margin-top: 1px;
+    margin-right: 10px;
+    text-align: right;
+}
+
+.dropdown a:hover {
+    cursor: pointer;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: black;
+    font-family: 'Advent Pro';
+    font-size: 100px;
+    font-weight: lighter;
+    margin-bottom: 0%;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 10%;
+    text-align: center;
+}
+
+.coding .projects {
+    background-color: #faf7f3;
+    border: 0px;
+    color: black;
+    font-size: 12.5px;
+    height: 35px;
+    margin-bottom: 0%;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 5%;
+    width: 40%;
+}
+
+.coding .projects:hover {
+    background-color: #555555;
+    color: white;
+    cursor: pointer;
+}
+
+.resume .resumefile {
+    background-color: #faf7f3;
+    border: 0px;
+    color: black;
+    font-size: 12.5px;
+    height: 35px;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 2.5%;
+    width: 40%;
+}
+
+.resume .resumefile:hover { /* last thing seen on page*/
+    background-color: #555555;
+    color: white;
+    cursor: pointer;
+}
